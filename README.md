@@ -9,4 +9,4 @@ companies, and patents related to brain-computer interfaces.
 
 ## Getting started
 
-Add project setup and usage instructions here as the project develops.
+Fork, contribute and add links, repos, etc. to it!
