@@ -1,6 +1,6 @@
-# bci
+# brain-computer-interfaces
 
-A new project repository.
+Current state of all known bcis and collection of all related links to the topic
 
 ## Resources
 
