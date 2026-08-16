@@ -12,12 +12,36 @@ neurotechnology, neural decoding, and possible military applications.
 - [Neurotechnologies and Future Warfare — Geneva Centre for Security Policy](https://www.gcsp.ch/news/neurotechnologies-and-future-warfare)
 - [Militärtechnologie: Forscher warnen vor Waffen mit Gedankensteuerung — DER SPIEGEL](https://www.spiegel.de/wissenschaft/technik/militaertechnologie-forscher-warnen-vor-waffen-mit-gedankensteuerung-a-813824.html) (German)
 - [Telepathy — Naomi Bashkansky](https://naomibashkansky.com/blog/telepathy/)
+- [Next-Generation Nonsurgical Neurotechnology (N3) — DARPA](https://www.darpa.mil/research/programs/next-generation-nonsurgical-neurotechnology)
+- [Neural Engineering System Design (NESD) — DARPA](https://www.darpa.mil/attachments/FactsheetNESDKickoffFinal.pdf) (PDF)
+
+## Research and clinical evidence
+
+- [BrainGate — Turning Thought Into Action](https://www.braingate.org/)
+- [Decoding inner speech from brain signals — NIH](https://www.nih.gov/news-events/nih-research-matters/decoding-inner-speech-brain-signals)
+- [Brain-computer interface restores natural speech after paralysis — NIH](https://www.nih.gov/news-events/nih-research-matters/brain-computer-interface-restores-natural-speech-after-paralysis)
+- [An instantaneous voice-synthesis neuroprosthesis — Nature (2025)](https://www.nature.com/articles/s41586-025-09127-3)
+- [A neural speech decoding framework leveraging deep learning and speech synthesis — Nature Machine Intelligence (2024)](https://www.nature.com/articles/s42256-024-00824-8)
+- [How the brain produces speech — NIH](https://www.nih.gov/news-events/nih-research-matters/how-brain-produces-speech)
+
+## Ethics, governance, and human rights
+
+- [Ethics of neurotechnology — UNESCO](https://www.unesco.org/en/ethics-neurotech?hub=701)
+- [Recommendation on the Ethics of Neurotechnology — UNESCO](https://www.unesco.org/en/node/86248)
+- [Neurotechnology and society: Strengthening responsible innovation in brain science — OECD](https://www.oecd.org/en/publications/neurotechnology-and-society_f31e10ab-en.html)
+- [OECD Neurotechnology Toolkit](https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/emerging-technologies/neurotech-toolkit.pdf) (PDF)
 
 ## Research and companies
 
 - [Sabi — BCI Cap](https://sabi.com/)
 - [Brain2Qwerty: From Brain Waves to Words — Meta AI](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/)
 - [Hemispheric](https://www.hemispheric.ai/)
+- [Neuralink — Implantable brain-computer interfaces](https://neuralink.com/technology/)
+- [Synchron — Endovascular brain-computer interface](https://synchron.com/)
+- [Precision Neuroscience — Layer 7 cortical interface](https://www.precisionneuro.io/our-technology)
+- [Paradromics — Implantable BCI technology](https://paradromics.com/company/)
+- [OpenBCI — Open-source biosensing tools](https://openbci.com/)
+- [OpenBCI documentation](https://docs.openbci.com/)
 
 ## Patents
 
